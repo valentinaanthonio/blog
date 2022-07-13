@@ -1,0 +1,12 @@
+[submodule "tinatally13blog/public"]
+	path = tinatally13blog/public
+	url = https://github.com/valentinaanthonio/valentinaanthonio.github.io.git
+	branch = main
+[submodule "tinatally/public"]
+	path = tinatally/public
+	url = https://github.com/valentinaanthonio/valentinaanthonio.github.io.git
+	branch = main
+[submodule "tinatally13/public"]
+	path = tinatally13/public
+	url = https://github.com/valentinaanthonio/valentinaanthonio.github.io.git
+	branch = main
